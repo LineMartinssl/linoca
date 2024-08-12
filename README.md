@@ -1,3 +1,3 @@
 # linoca
 
-## ** negrito **
+## **NEGRITO**
